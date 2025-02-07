@@ -1,10 +1,20 @@
 ---
 title: "Megan Hoover"
+image: downloads/megan-estes.png
+toc: false
+about: 
+template: trestles
+ image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/megan-hoover-9011a22a2/
+    - text: GitHub
+      href: https://github.com/meganhoover21
+    - text: Email
+      href: mailto:scsik@ucsb.edu
 ---
 
 Megan Hoover
 
 Hi, I'm Megan; a Michigan native. I'm currently a junior in the Ecosystem Science & Sustainability program, and working on a Watershed Science minor at Colorado State University. Professionally, I love learning new skills related to my field and teaching them to the local community. In my free time I like to go on adventures, do some crafty projects, cook, or spend time with my husband and two dogs. Check out my site!
-
-```{}
-```
