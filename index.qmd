@@ -12,7 +12,7 @@ template: trestles
     - text: GitHub
       href: https://github.com/meganhoover21
     - text: Email
-      href: mailto:scsik@ucsb.edu
+      href: mailto:megan.hoover21@gmail.com
 ---
 
 Megan Hoover
