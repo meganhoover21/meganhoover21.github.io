@@ -1,11 +1,10 @@
 ---
-title: "meganhoover21.github.io"
+title: "Megan Hoover"
 ---
 
-This is a Quarto website.
+Megan Hoover
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I'm Megan; a Michigan native. I'm currently a junior in the Ecosystem Science & Sustainability program, and working on a Watershed Science minor at Colorado State University. Professionally, I love learning new skills related to my field and teaching them to the local community. In my free time I like to go on adventures, do some crafty projects, cook, or spend time with my husband and two dogs. Check out my site!
 
-```{r}
-1 + 1
+```{}
 ```
