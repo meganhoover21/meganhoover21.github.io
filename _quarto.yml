@@ -4,7 +4,11 @@ project:
 
 website:
   title: "Megan Hoover"
+  favicon: imgs/logo.png # NOTE: that the `favicon` is a `website` level option (not under `navbar`)
   navbar:
+    title: false # override printing your website `title` (e.g. "megan hoover" on line 6) in the top left corner of your navbar
+    logo: imgs/logo.png
+    logo-alt: "Alt text for logo"
     left:
       - href: index.qmd
         text: About
