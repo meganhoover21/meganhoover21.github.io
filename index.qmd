@@ -11,11 +11,14 @@ about:
     text: LinkedIn
     href: https://www.linkedin.com/in/megan-hoover-9011a22a2/
     target: _blank
-    
-  - text: GitHub
+  - icon: github
+    text: GitHub
     href: https://github.com/meganhoover21
-  - text: Email
+    target: _blank
+  - icon: envelope
+    text: Email
     href: mailto:megan.hoover21@gmail.com
+    target: _blank
 ---
 
 Megan Hoover
