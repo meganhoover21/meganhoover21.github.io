@@ -10,7 +10,7 @@ about:
   - icon: linkedin
     text: LinkedIn
     href: https://www.linkedin.com/in/megan-hoover-9011a22a2/
-   target: _blank
+    target: _blank
     
   - text: GitHub
     href: https://github.com/meganhoover21
