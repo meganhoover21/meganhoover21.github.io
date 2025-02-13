@@ -1,6 +1,6 @@
 ---
 title: "Megan Hoover"
-image: downloads/megan-estes.png
+image: imgs/megan-estes.png
 toc: false
 about: 
  template: trestles
