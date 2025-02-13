@@ -1,0 +1,10 @@
+---
+title: "resume"
+format: html
+---
+
+Here is my resume:
+
+<embed src="Updated-resume_jan25.pdf"
+type="application/pdf" width ="100%"
+height="600px">
