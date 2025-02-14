@@ -4,7 +4,7 @@ image: imgs/megan-estes.png
 toc: false
 about: 
  template: trestles
- image-shape: rectangle
+ image-shape: round
  image-width: 17em
  links:
   - icon: linkedin
