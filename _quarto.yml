@@ -24,7 +24,9 @@ website:
 
 format:
   html:
-    theme: styles.scss
+    theme:
+      - trestles
+      - styles.scss
     toc: true
     page-layout: full
 
