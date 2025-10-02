@@ -15,7 +15,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: resume.qmd
-        text: Resume
+        text: CV
   page-footer:
     background: light # or `dark`
     left: Copyright 2025, Megan Hoover
