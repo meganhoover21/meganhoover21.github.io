@@ -16,15 +16,22 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "projects",
+    "title": "Projects",
     "section": "",
-    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+    "text": "In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
   },
   {
     "objectID": "projects.html#building-a-project-website",
     "href": "projects.html#building-a-project-website",
-    "title": "projects",
+    "title": "Projects",
     "section": "Building a project website",
     "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
+    "objectID": "projects.html#karenia-brevis-toxic-algae",
+    "href": "projects.html#karenia-brevis-toxic-algae",
+    "title": "Projects",
+    "section": "Karenia Brevis Toxic Algae",
+    "text": "Karenia Brevis Toxic Algae\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
   }
 ]
