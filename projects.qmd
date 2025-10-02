@@ -7,6 +7,5 @@ In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I 
 
 ## [Karenia Brevis Toxic Algae](https://meganhoover21.github.io/updated/ )
 
-- In this assignment we built a static users site with Github Pages 
-- Includes a github repo for access to all the code.
-- Look at how high quality my work is!
+- In this assignment we investigated correlations of Karenia Brevis along the Western Florida Coast and attempted to create models for predicting blooms. We built a static users site with Github Pages 
+- Repo: [GitHub Link](https://github.com/meganhoover21/updated)
