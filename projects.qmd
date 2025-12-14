@@ -3,7 +3,7 @@ title: "Projects"
 format: html
 ---
 
-In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
+I wrote some code, and did some cool data science. Here is a collection of links! 
 
 ## [Karenia Brevis Toxic Algae](https://meganhoover21.github.io/updated/ )
 
