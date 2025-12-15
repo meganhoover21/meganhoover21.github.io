@@ -9,3 +9,6 @@ I wrote some code, and did some cool data science. Here is a collection of links
 
 - In this assignment we investigated correlations of Karenia Brevis along the Western Florida Coast and attempted to create models for predicting blooms. We built a static users site with Github Pages 
 - Repo: [GitHub Link](https://github.com/meganhoover21/updated)
+
+## [Stream Quality Status in Ottawa County, MI](docs/Map_Challenge.html)
+- In this assignment I wanted to show stream status in Ottawa County, Michigan. I ussed stream status data, streams/river vector data, and counties vector data as bounding box. The large data sets (NLCD_2024_CU.tif and Assessment_Units_2024_-_Rivers_and_Streams.geojson)

@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+    "text": "I wrote some code, and did some cool data science. Here is a collection of links!"
   },
   {
     "objectID": "projects.html#building-a-project-website",
@@ -33,5 +33,12 @@
     "title": "Projects",
     "section": "Karenia Brevis Toxic Algae",
     "text": "Karenia Brevis Toxic Algae\n\nIn this assignment we investigated correlations of Karenia Brevis along the Western Florida Coast and attempted to create models for predicting blooms. We built a static users site with Github Pages\nRepo: GitHub Link"
+  },
+  {
+    "objectID": "projects.html#stream-quality-status-in-ottawa-county-mi",
+    "href": "projects.html#stream-quality-status-in-ottawa-county-mi",
+    "title": "Projects",
+    "section": "Stream Quality Status in Ottawa County, MI",
+    "text": "Stream Quality Status in Ottawa County, MI\n\nIn this assignment I wanted to show stream status in Ottawa County, Michigan. I ussed stream status data, streams/river vector data, and counties vector data as bounding box. The large data sets (NLCD_2024_CU.tif and Assessment_Units_2024_-_Rivers_and_Streams.geojson)"
   }
 ]
