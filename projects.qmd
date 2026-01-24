@@ -12,3 +12,6 @@ I wrote some code, and did some cool data science. Here is a collection of links
 
 ## [Stream Quality Status in Ottawa County, MI](docs/Map_Challenge.html)
 - In this assignment I wanted to show stream status in Ottawa County, Michigan. I ussed stream status data, streams/river vector data, and counties vector data as bounding box. The large data sets (NLCD_2024_CU.tif and Assessment_Units_2024_-_Rivers_and_Streams.geojson)
+
+## [Blue Spotted Salamander Habitat Mapping (ArcGIS Pro)](docs/blue_salamander_map.pdf)
+- The project criteria (NR 319 Introduction to Geospatial Science) was to create a 2D and 3D map of a space using several outside data sources that included transportation maps, elevation maps, and land use maps. I chose to research the Blue Spotted Salamander, which can be found in certain parts of my home-state, Michigan. Specifically, it can be found in Marquette, Michigan. To find the most ideal locations, I used model builder within ArcGIS pro to show me the data I specified with differing criteria per type of data.
